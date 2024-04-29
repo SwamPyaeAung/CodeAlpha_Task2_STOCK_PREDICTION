@@ -1,4 +1,4 @@
-# CodeAlpha_TASK2_STOCK_PREDICTION
+# STOCK_PREDICTION
 This project aims to predict the stock prices of TESLA using Long Short-Term Memory (LSTM) networks. LSTM is a type of recurrent neural network (RNN) architecture that is well-suited for sequence prediction tasks like time series forecasting.
 
 # Dataset
